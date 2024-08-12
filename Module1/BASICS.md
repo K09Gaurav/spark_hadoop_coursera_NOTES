@@ -38,6 +38,8 @@ For a new data engineer, gaining a solid understanding of Apache Spark is essent
 * **Learning Curve:** While more user-friendly than MapReduce, Spark still requires a learning curve, especially for more complex tasks.
 * **Compatibility:** Spark is relatively newer than Hadoop, so certain legacy systems might be more compatible with Hadoop-based solutions.
 
+
+
 # Choosing between Hadoop and Spark
 
 New data engineers need not strictly decide between Hadoop and Spark; both have their places in the data engineering landscape. The choice depends on factors like:
